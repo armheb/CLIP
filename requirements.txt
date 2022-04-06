@@ -1,4 +1,4 @@
 ftfy
 regex
 tqdm
-torch====1.7.1
+torch==1.7.1
